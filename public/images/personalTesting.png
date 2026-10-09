@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 80" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Barbell and weights matching personalTesting.png -->
+  <line x1="12" y1="20" x2="88" y2="20" stroke-width="3.5" />
+  <rect x="12" y="10" width="4" height="20" rx="1.5" fill="white" />
+  <rect x="18" y="13" width="3" height="14" rx="1" fill="white" />
+  <rect x="84" y="10" width="4" height="20" rx="1.5" fill="white" />
+  <rect x="79" y="13" width="3" height="14" rx="1" fill="white" />
+  <!-- Head -->
+  <circle cx="50" cy="18" r="7" fill="white" />
+  <!-- Torso & Athletic Chest -->
+  <path d="M42 27 L38 38 L44 48 L56 48 L62 38 L58 27 Z" />
+  <path d="M46 32 C48 35 52 35 54 32" />
+  <!-- Arms grasping the barbell -->
+  <path d="M38 27 L28 22 L24 20" stroke-width="3.5" />
+  <path d="M62 27 L72 22 L76 20" stroke-width="3.5" />
+  <!-- Squatting Legs & Knees -->
+  <path d="M42 48 C34 50 32 58 36 68 L36 74" stroke-width="3.5" />
+  <path d="M58 48 C66 50 68 58 64 68 L64 74" stroke-width="3.5" />
+  <!-- Inner thigh / stance -->
+  <path d="M46 48 L46 56 C46 60 54 60 54 56 L54 48" />
+  <!-- Feet firmly on floor -->
+  <rect x="31" y="73" width="11" height="4" rx="2" fill="white" />
+  <rect x="58" y="73" width="11" height="4" rx="2" fill="white" />
+</svg>

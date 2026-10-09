@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- 4 rounded rectangular rings in 2x2 grid rotated -45 degrees -->
+  <g transform="rotate(-45 50 50)">
+    <rect x="16" y="16" width="30" height="30" rx="8" stroke="white" stroke-width="7" />
+    <rect x="54" y="16" width="30" height="30" rx="8" stroke="white" stroke-width="7" />
+    <rect x="16" y="54" width="30" height="30" rx="8" stroke="white" stroke-width="7" />
+    <rect x="54" y="54" width="30" height="30" rx="8" stroke="white" stroke-width="7" />
+  </g>
+</svg>
