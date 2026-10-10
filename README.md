@@ -1,15 +1,10 @@
-# 🏋️ Gyms — Fitness Club Landing Experience
-
-A high-performance gym and fitness club landing page with a custom responsive organic layout, specialty programs, and seamless mobile and tablet consistency.
-
----
-
 ## 📖 Project Background
 
 This project started as a failed interview assignment. I was unable to complete the task because I did not understand how to create the hero section. The main problem was the background design. At first, I tried to create a background with a black and green shape. However, I struggled to position the shape correctly and to place the content properly on top of it. Because of this, the project did not meet the requirements.
 
 After a day of troubleshooting and learning, I finally solved the problem. By carefully adjusting the shape's position and adding the content in a structured way, I was able to fix the background design and complete the hero section. This project now serves as a valuable learning experience and shows how I overcame a specific design challenge.
 
+## solution  image
 ---
 ![Gyms Hero Section](problem.png)
 ---
