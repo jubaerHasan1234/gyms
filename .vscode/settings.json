@@ -1,3 +1,4 @@
 {
-  "workbench.startupEditor": "readme"
+  "workbench.startupEditor": "readme",
+  "markdown.validate.enabled": true
 }
