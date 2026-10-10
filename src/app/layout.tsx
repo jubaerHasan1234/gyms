@@ -39,20 +39,6 @@ export const metadata: Metadata = {
       },
     ],
   },
-  linkedIn: {
-    card: 'summary_large_image',
-    title: 'Kratos Fitness - Power Your Potential',
-    description:
-      'High-performance gym and fitness club landing experience with custom responsive organic layout, specialty programs, and seamless mobile and tablet consistency.',
-    images: [
-      {
-        url: '/images/hero-bodybuilders.jpg',
-        width: 1920,
-        height: 1080,
-        alt: 'Kratos Fitness',
-      },
-    ],
-  },
   icons: {
     icon: '/images/logo.svg',
   },
